@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Five Horizons — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The Grand Tour's forks"><br><sub>The Grand Tour's forks</sub></td><td width="50%"><img src="assets/screenshot-garage.png" alt="The Garage: six cars and paint"><br><sub>The Garage: six cars and paint</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-intro.png" alt="A stage brief"><br><sub>A stage brief</sub></td><td width="50%"><img src="assets/screenshot-results.png" alt="Time up: the stage result"><br><sub>Time up: the stage result</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
